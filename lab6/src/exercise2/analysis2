@@ -1,0 +1,3 @@
+| Measurement | Complexity | Explanation |
+| :--- | :--- | :--- |
+| Time complexity | O(n) | In each recursive step, two elements are swapped and the pointers move closer together. The function is called n/2 times, which simplifies to O(n). |
